@@ -1,7 +1,3 @@
-# spiral-function-branch-classifier
-The purpose of this project is to build a neural network from scratch to determine what branch of a spiral function in a cartesian plan, a dot (x,y) is closest to.
-
-
 # Spiral Branch Determiner Project
 The purpose of this project is to build a neural network from scratch to determine what branch of a spiral function in a cartesian plan, a dot (x,y) is closest to.
 In the beginning it will be provided a dataset with a set of dots and the number of the spiral branch the dot belongs to. As an example, give a look in the following image:
