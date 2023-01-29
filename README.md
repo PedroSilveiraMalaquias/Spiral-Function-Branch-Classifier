@@ -23,7 +23,7 @@ After a few sets of training/testing the neural network model achieved an accura
 
 This work was an implementation of the Neural Nertwork proposed by Harrison Kinsley & Daniel Kukieła, in their book "Neural Networks from Scratch in Python". I made
 some changes and tried to write it in a more object-oriented, and simplified way. I also tried to make easier to read each function that the neural network uses in its 
-learning process.
+learning process. I also choose the adagrad optimization, which was the one that worked the best from all optimizations I tried. 
 
 I am also making available my personal notes, which I wrote while I was studying the book. There you can check the Activation Function, the Input Format, 
 and the Output Format we are using in this project. Besides, you can check the cost function and the chosen strategies applied to perform the Gradient Descent and the 
